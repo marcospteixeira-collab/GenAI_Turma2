@@ -11,7 +11,7 @@ Estrutura das Abas:
 • technique-per-benchmark: Matriz de mapeamento cruzando as técnicas/abordagens propostas nos estudos com os datasets ou benchmarks utilizados na avaliação experimental.
 • temporal-distribution-ps: Análise da distribuição temporal dos estudos primários selecionados por ano de publicação (base para gráficos de evolução da área).
 
-Fluxo de Preenchimento
+Fluxo de Preenchimento:
 1. Coleta (1-automated-search): Inserir os metadados exportados das bases e registrar a decisão da 1ª triagem.
 2. Seleção e Extração (2-selection-and-extraction): Filtrar os aprovados na etapa anterior, aplicar critérios de elegibilidade e extrair os dados.
 3. Catalogação (ps-and-paper): Atribuir um código identificador único (PS-XX) para cada estudo aprovado na etapa 2.
